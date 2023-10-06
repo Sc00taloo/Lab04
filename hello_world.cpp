@@ -3,7 +3,7 @@
 
 int main(int argc, char** argv)
 {
- string name; \\name man
- std::cin >> name; \\input name man
- std::cout << "Hello world from" << name << std::endl; \\output hello world with name
+ string name; \\nam
+ std::cin >> name; \\input name man.
+ std::cout << "Hello world from" << name << std::endl; \\Выведет hello world с name
 }
